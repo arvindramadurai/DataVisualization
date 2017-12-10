@@ -12,5 +12,5 @@
 
 >> pip install plotly,cufflinks,seaborn and pandas datareader in commmand prompt.(plotly can be used only with an API key)
 
->> Upload all the data sets(in the Final directory) into Jupyter
+>> Upload all the data sets(in the DV_Project directory) into Jupyter
 
